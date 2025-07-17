@@ -41,7 +41,7 @@ A simple, interactive 2-player Tic Tac Toe game built using **HTML**, **CSS**, a
 
 ## 📁 Live Demo
 
-[Click here to play](https://your-deployed-link.vercel.app)
+[Click here to play](https://tic-tac-toe-game-five-ochre.vercel.app/)
 
 ---
 
